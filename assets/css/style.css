@@ -3,10 +3,12 @@
   padding: 0;
   margin: 0;
 }
-
+/*setting background color to webpage body*/
 body {
   background-color: #d9dcd6;
 }
+
+/*header styling starts*/
 
 .header-container {
   padding: 20px;
@@ -47,9 +49,9 @@ a {
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
-}
+/*header styling ends*/
+
+/*hero styling starts */
 
 .hero {
   height: 800px;
@@ -59,6 +61,10 @@ p {
   background-size: cover;
   background-position: center;
 }
+
+/*hero styling ends*/
+
+/*Services section styling starts*/
 
 .float-left {
   float: left;
@@ -76,7 +82,7 @@ p {
   margin-left: 20px;
 }
 
-#search-engine-optimization {
+.service-offering {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -85,50 +91,21 @@ p {
   color: #ffffff;
 }
 
-#online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-#social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-#search-engine-optimization img {
+.service-offering img {
   max-height: 200px;
 }
 
-#online-reputation-management img {
-  max-height: 200px;
-}
-
-#social-media-marketing img {
-  max-height: 200px;
-}
-
-#search-engine-optimization h2 {
+.service-offering h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-#online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
+p {
+  font-size: 16px;
 }
+/*Services section styling ends*/
 
-#social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
+/*Benefit section styling starts*/
 
 .benefits {
   margin-right: 20px;
@@ -156,6 +133,9 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+/*Benefit section styling ends*/
+
+/*footer styling starts*/
 
 .footer {
   padding: 30px;
@@ -168,3 +148,4 @@ p {
 .footer h2 {
   font-size: 20px;
 }
+/*footer styling ends*/

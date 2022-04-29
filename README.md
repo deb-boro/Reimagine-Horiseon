@@ -12,7 +12,7 @@ WebPage elaborates on service offerings and benefit of engagement
 
 ## Tech Stack
 
-html & CSS
+HTML & CSS
 
 ## Link to Deployment
 

@@ -1,6 +1,6 @@
 # Reimagine-Horiseon
 
-This is a project to refactor the existing html and css files ensuring that the webpage meets accessibility standards and optimized for search engines.
+This is a project to refactor the existing html and css files ensuring that the webpage meets accessibility standards and optimized for search engines. As part of the project , some of the html tags are refactored , alt attributes are added for image tags wherever required to meet accessibility standards. In addition, CSS files are consolidated removing any redundant selector or property. Meaningful comments are added to html and css files as required. 
 
 ## Authors
 
